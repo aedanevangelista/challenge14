@@ -2,7 +2,7 @@ import React from "react";
 
 const RightAside = () => {
   return (
-    <div className="flex flex-col justify-center py-6 px-10 w-[18rem] md:w-1/2 bg-[#50bcbc] text-white rounded-b-lg md:rounded-bl-none md:rounded-br-lg">
+    <div className="flex flex-col justify-center py-6 px-10 w-[18rem] mb-4 md:mb-0 md:w-1/2 bg-[#50bcbc] text-white rounded-b-lg md:rounded-bl-none md:rounded-br-lg">
       <h1 className="font-[700] text-xl mb-5">Why Us</h1>
       <ul className="font-[400] text-sm text-[#cffdff]">
         <li className="hover:text-base duration-300">
